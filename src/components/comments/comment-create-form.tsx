@@ -55,7 +55,6 @@ export default function CommentCreateForm({
       </div>
     </form>
   );
-
   return (
     <div>
       <Button size="sm" variant="light" onClick={() => setOpen(!open)}>
